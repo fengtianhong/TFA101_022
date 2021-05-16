@@ -2,6 +2,7 @@ package xxx;
 
 public class HelloEclipse {
 	public static void main(String[] args) {
+		System.out.print("sayMyName")
 		int test = 1_234_543;
 		String a = new String(" aaa ");
 		a= " ";
