@@ -7,6 +7,7 @@ public class HelloEclipse {
 		System.out.print("sayMyName")
 		System.out.print("sayMyNameAgain")
 		int test = 1_234_543;
+		private int sayMyName = 123;
 		String a = new String(" aaa ");
 		a= " ";
 		String c = a.trim();
