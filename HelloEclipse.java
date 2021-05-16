@@ -2,6 +2,7 @@ package xxx;
 
 public class HelloEclipse {
 	public static void main(String[] args) {
+		System.out.print("面")
 		System.out.print("貓")
 		System.out.print("sayMyName")
 		System.out.print("sayMyNameAgain")
