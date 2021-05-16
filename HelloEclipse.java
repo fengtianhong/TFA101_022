@@ -2,6 +2,9 @@ package xxx;
 
 public class HelloEclipse {
 	public static void main(String[] args) {
+		System.out.print("貓")
+		System.out.print("sayMyName")
+		System.out.print("sayMyNameAgain")
 		int test = 1_234_543;
 		String a = new String(" aaa ");
 		a= " ";
